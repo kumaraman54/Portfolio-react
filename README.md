@@ -9,10 +9,11 @@ Live Demo
 View the live demo: https://portfolio-react-xi-snowy.vercel.app/
 
 Technologies Used
-React
-react-dom
-react-scroll
-Tailwind CSS
+React,
+react-dom,
+react-scroll,
+Tailwind CSS.
+
 Features
 Responsive Design: Ensures optimal viewing experience across a wide range of devices.
 Navigation with Smooth Scrolling: Utilizes react-scroll for smooth scrolling to sections within the page.
