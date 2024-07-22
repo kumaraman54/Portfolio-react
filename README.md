@@ -1,6 +1,6 @@
 
 Memory updated
-Got it! Here's the updated README template including the deployment link on Vercel:
+
 
 Portfolio Website
 This project is a personal portfolio website built using React and designed with Tailwind CSS, showcasing my skills, projects, and contact information.
